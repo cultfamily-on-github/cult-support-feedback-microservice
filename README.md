@@ -1,4 +1,4 @@
-# CULT Resources Microservice
+# CULT Support Feedback Microservice
 
 In order to strengthen resilience, scalability and technological freedom for contributors, we establish a microservices architecture. 
 
